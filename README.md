@@ -1,3 +1,10 @@
+
+
+# Unreal Engine 5.7 – Third Person Locomotion System
+
+A high-quality **third-person locomotion system** built in **Unreal Engine 5.7**, focused on delivering smooth, realistic, and weighty movement inspired by modern AAA games like *Resident Evil*.
+
+---
 ## Disclaimer
 
 This repository contains only selected files from a third-person controller system and is not a complete or standalone project.
@@ -11,13 +18,6 @@ Please note:
 * Additional configuration may be required for proper use
 
 Use these files at your own discretion. No guarantees are provided regarding functionality, compatibility, or future support.
-
-
-# Unreal Engine 5.7 – Third Person Locomotion System
-
-A high-quality **third-person locomotion system** built in **Unreal Engine 5.7**, focused on delivering smooth, realistic, and weighty movement inspired by modern AAA games like *Resident Evil*.
-
----
 
 ## 🧙 Features
 
