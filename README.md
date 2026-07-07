@@ -1,3 +1,17 @@
+## Disclaimer
+
+This repository contains only selected files from a third-person controller system and is not a complete or standalone project.
+
+These files are provided for educational and reference purposes only. They are intended to demonstrate specific systems, mechanics, or implementations, and may require additional setup, dependencies, or integration within your own project to function correctly.
+
+Please note:
+
+* This is **not a full game or complete controller package**
+* Some features may be incomplete, experimental, or subject to change
+* Additional configuration may be required for proper use
+
+Use these files at your own discretion. No guarantees are provided regarding functionality, compatibility, or future support.
+
 
 # Unreal Engine 5.7 – Third Person Locomotion System
 
